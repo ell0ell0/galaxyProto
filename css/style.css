@@ -1,0 +1,11 @@
+html, body {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+#canvas {
+	height: 1000px;
+	width: 500px;
+	background: rgb(80,80,80);
+	position: absolute;
+}
